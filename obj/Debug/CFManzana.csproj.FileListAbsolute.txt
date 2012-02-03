@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\CFManzana\CFManzana\CFManzana\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\CFManzana\CFManzana\CFManzana\bin\Debug\CFManzana.dll
+C:\Users\Admin\Documents\CFManzana\CFManzana\CFManzana\bin\Debug\CFManzana.pdb
+C:\Users\Admin\Documents\CFManzana\CFManzana\CFManzana\obj\Debug\CFManzana.dll
+C:\Users\Admin\Documents\CFManzana\CFManzana\CFManzana\obj\Debug\CFManzana.pdb
+C:\Users\Admin\Documents\CFManzana\bin\Debug\CFManzana.dll
+C:\Users\Admin\Documents\CFManzana\bin\Debug\CFManzana.pdb
+C:\Users\Admin\Documents\CFManzana\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\CFManzana\obj\Debug\CFManzana.dll
+C:\Users\Admin\Documents\CFManzana\obj\Debug\CFManzana.pdb
