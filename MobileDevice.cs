@@ -222,7 +222,7 @@ namespace CFManzana {
 		unsafe public static string AMDeviceCopyValue(void* device, string name) {               
             IntPtr result = AMDeviceCopyValue_IntPtr(device, 0, new CFString(name));
             if (result==IntPtr.Zero)
-                return name;             
+                return "";             
             return new CFType(result).ToString();            
 		}
 

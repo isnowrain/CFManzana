@@ -15,8 +15,69 @@ namespace ConsoleApplication1
 
             iDevice dev = new iDevice();
 
-            Console.WriteLine(dev.CopyValue("Device Activation State: " + "ActivationState"));
-            
+        /* Reads various device settings. Values can be
+         
+        * ActivationPublicKey 
+        * ActivationState 
+        * ActivationStateAcknowledged 
+        * ActivityURL 
+        * BasebandBootloaderVersion 
+        * BasebandSerialNumber 
+        * BasebandStatus 
+        * BasebandVersion 
+        * BluetoothAddress 
+        * BuildVersion 
+        * CPUArchitecture 
+        * DeviceCertificate 
+        * DeviceClass 
+        * DeviceColor 
+        * DeviceName 
+        * DevicePublicKey 
+        * DieID 
+        * FirmwareVersion 
+        * HardwareModel 
+        * HardwarePlatform 
+        * HostAttached 
+        * IMLockdownEverRegisteredKey 
+        * IntegratedCircuitCardIdentity 
+        * InternationalMobileEquipmentIdentity 
+        * InternationalMobileSubscriberIdentity 
+        * iTunesHasConnected 
+        * MLBSerialNumber 
+        * MobileSubscriberCountryCode 
+        * MobileSubscriberNetworkCode 
+        * ModelNumber 
+        * PartitionType 
+        * PasswordProtected 
+        * PhoneNumber 
+        * ProductionSOC 
+        * ProductType 
+        * ProductVersion 
+        * ProtocolVersion 
+        * ProximitySensorCalibration 
+        * RegionInfo 
+        * SBLockdownEverRegisteredKey 
+        * SerialNumber 
+        * SIMStatus 
+        * SoftwareBehavior 
+        * SoftwareBundleVersion 
+        * SupportedDeviceFamilies 
+        * TelephonyCapability 
+        * TimeIntervalSince1970 
+        * TimeZone 
+        * TimeZoneOffsetFromUTC 
+        * TrustedHostAttached 
+        * UniqueChipID 
+        * UniqueDeviceID 
+        * UseActivityURL 
+        * UseRaptorCerts 
+        * Uses24HourClock 
+        * WeDelivered 
+        * WiFiAddress
+         * */
+            Console.WriteLine("\nDevice Name: " + dev.CopyValue("DeviceName"));
+            Console.WriteLine("Device iOS Version: " + dev.CopyValue("ProductVersion"));            
+            System.Threading.Thread.Sleep(-1);
         }
     }
 }

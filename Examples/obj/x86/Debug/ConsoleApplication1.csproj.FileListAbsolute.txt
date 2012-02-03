@@ -3,9 +3,9 @@ C:\Users\Admin\Documents\CFManzana\ConsoleApplication1\ConsoleApplication1\bin\D
 C:\Users\Admin\Documents\CFManzana\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Admin\Documents\CFManzana\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Admin\Documents\CFManzana\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
-C:\Users\Admin\Documents\CFManzana\Examples\obj\x86\Debug\ConsoleApplication1.exe
-C:\Users\Admin\Documents\CFManzana\Examples\obj\x86\Debug\ConsoleApplication1.pdb
 C:\Users\Admin\Documents\CFManzana\Examples\bin\Debug\ConsoleApplication1.exe
 C:\Users\Admin\Documents\CFManzana\Examples\bin\Debug\ConsoleApplication1.pdb
 C:\Users\Admin\Documents\CFManzana\Examples\bin\Debug\CFManzana.dll
 C:\Users\Admin\Documents\CFManzana\Examples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\CFManzana\Examples\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Documents\CFManzana\Examples\obj\x86\Debug\ConsoleApplication1.pdb
